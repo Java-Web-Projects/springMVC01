@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/jsp/customer/list.jsp=UTF-8
+encoding//src/zttc/itat/model/Customer.java=UTF-8
+encoding//src/zttc/itat/model/User.java=UTF-8
+encoding//src/zttc/itat/service/UserService.java=UTF-8
